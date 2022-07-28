@@ -1,0 +1,11 @@
+version: v1
+
+id:
+  org: 169699e8-b48d-45ec-9dea-cd6bb8da241f
+  app: 71610f06-d6d2-418b-b382-c748a3fd3387
+
+scanners:
+  - sast
+
+languages:
+  - javascript
