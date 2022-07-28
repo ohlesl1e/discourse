@@ -9,3 +9,4 @@ scanners:
 
 languages:
   - javascript
+  - ruby
