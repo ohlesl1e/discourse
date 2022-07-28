@@ -2,7 +2,7 @@ version: v1
 
 id:
   org: 169699e8-b48d-45ec-9dea-cd6bb8da241f
-  app: 71610f06-d6d2-418b-b382-c748a3fd3387
+  app: 6e4ea1f9-7269-452f-b531-f49f1cba64d5
 
 scanners:
   - sast
